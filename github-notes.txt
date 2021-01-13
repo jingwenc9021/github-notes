@@ -1,0 +1,6 @@
+
+
+Git- is a free and open source distributed version control system designed to quickly and efficiently handle all issues from small to large projects.
+Github- is  a code hosting platform for Version control and collaboration.
+Repo -is a form of short-term borrowing by government securities dealers
+Commit -is In a version control system, commit is an operation that sends the latest changes to the source code to the repository so that these changes become part of the main version of the repository.
