@@ -1,4 +1,6 @@
 
+NOTE
+
 
 Git- is a free and open source distributed version control system designed to quickly and efficiently handle all issues from small to large projects.
 Github- is  a code hosting platform for Version control and collaboration.
